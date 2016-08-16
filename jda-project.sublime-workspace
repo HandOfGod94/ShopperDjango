@@ -1,0 +1,556 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"boo",
+				"bootstrap.min.js	(index.jsp)"
+			],
+			[
+				"st",
+				"style.css	(index.jsp)"
+			],
+			[
+				"boot",
+				"bootstrap.min.css	(index.jsp)"
+			],
+			[
+				"STATIC",
+				"STATIC_ROOT"
+			],
+			[
+				"ind",
+				"index	function"
+			],
+			[
+				"render",
+				"render	function"
+			],
+			[
+				"ret",
+				"return	keyword"
+			],
+			[
+				"Htp",
+				"HttpRequest	class"
+			],
+			[
+				"htt",
+				"http	module"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"url",
+				"urlpatterns	(urls.py)"
+			],
+			[
+				"ann",
+				"anaconda_linting	(Anaconda.sublime-settings)"
+			],
+			[
+				"ur",
+				"url	(urls.py)"
+			],
+			[
+				"con",
+				"conf	module"
+			],
+			[
+				"pep",
+				"pep8_ignore	(Anaconda.sublime-settings)"
+			],
+			[
+				"act",
+				"active	(user comment.html)"
+			],
+			[
+				"get",
+				"get	(user comment.html)"
+			],
+			[
+				"some",
+				"someArgs"
+			],
+			[
+				"bt",
+				"btn-default"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"rad",
+				"radio-inline"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"nva",
+				"navbar"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"matr",
+				"matrix2"
+			],
+			[
+				"s",
+				"split"
+			],
+			[
+				"matri",
+				"matrix1"
+			],
+			[
+				"c",
+				"c_sal"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Workspace/Shopper/WebContent/jsp/index.jsp",
+			"settings":
+			{
+				"buffer_size": 2130,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "shopper/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 1841,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Softwares/jda/studio/projects/bookstore/data/users_data.xml",
+			"settings":
+			{
+				"buffer_size": 1530,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jda/urls.py",
+			"settings":
+			{
+				"buffer_size": 816,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"last_filter": "django",
+		"selected_items":
+		[
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"showe",
+				"Anaconda: Show error list"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package contring ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/python-workspace/jda",
+		"/D/python-workspace/jda/jda",
+		"/D/python-workspace/jda/shopper",
+		"/D/python-workspace/jda/shopper/migrations"
+	],
+	"file_history":
+	[
+		"/D/Softwares/jda/studio/projects/bookstore/log/server.log",
+		"/D/Softwares/jda/studio/projects/bookstore/data/user_data.xml",
+		"/D/python-workspace/jda/jda/settings.py",
+		"/D/python-workspace/jda/shopper/templates/index.html",
+		"/D/python-workspace/jda/jda/urls.py",
+		"/D/python-workspace/jda/shopper/views.py",
+		"/D/python-workspace/jda/shopper/urls.py",
+		"/C/Users/1021124/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/1021124/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/1021124/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/python-workspace/jda/manage.py",
+		"/D/python-workspace/jda/jda-project.sublime-project",
+		"/C/Program Files/Sublime Text 3/sampledata.xml",
+		"/C/Oracle/12.1.0.2_SE/NETWORK/ADMIN/tnsnames.ora",
+		"/D/Softwares/jda/studio/projects/bookstore/db/schema.sql",
+		"/C/Oracle/12.1.0.2_SE/NETWORK/ADMIN/SAMPLE/tnsnames.oRA",
+		"/D/shriya ui/form-validaiton.html",
+		"/D/shriya ui/shopId.html",
+		"/D/shriya ui/struct/struct/Analysis.html",
+		"/D/shriya ui/struct/struct/user comment.html",
+		"/D/shriya ui/struct/struct/transaction.html",
+		"/D/shriya ui/struct/struct/Main.html",
+		"/D/shriya ui/user comment.html",
+		"/D/shriya ui/transaction.html",
+		"/C/Users/1021124/mainclass.java",
+		"/D/shriya ui/Analysis.html",
+		"/C/Users/1021124/Documents/evenorodd/src/semantic_analysis/TrieNode.java",
+		"/C/Users/1021124/Documents/evenorodd/src/semantic_analysis/Trie.java",
+		"/C/Users/1021124/Documents/evenorodd/src/semantic_analysis/mainclass.java",
+		"/C/Users/1021124/Documents/chart.html",
+		"/C/Users/1021124/user comment.html",
+		"/C/Users/1021124/Documents/display.java",
+		"/C/Users/1021124/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/GPBDJ416/display.java",
+		"/C/Users/1021124/simplejs.html",
+		"/C/Users/1021124/main.js",
+		"/C/Users/1021124/Documents/UserComment.jsp",
+		"/C/Users/1021124/simple.js",
+		"/C/Users/1021124/Desktop/PROJECT/project/hibernate.cfg.xml",
+		"/C/Users/1021124/Desktop/PROJECT/project/thirdpage.htm",
+		"/D/Shopper/src/com/shopper/beans/UserCommentBean.java",
+		"/D/Shopper/WebContent/UserComment.jsp",
+		"/D/Shopper/src/com/shopper/ProductCRUD.java",
+		"/C/Users/1021124/Desktop/PROJECT/UserComment.jsp",
+		"/C/Users/1021124/Desktop/PROJECT/project/firstpage.htm",
+		"/C/Users/1021124/Desktop/PROJECT/project/2ndpage.htm",
+		"/D/Shopper/src/com/shopper/ConnectionManager.java",
+		"/D/Shopper/src/com/shopper/beans/ProductBean.java",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/com/namdev/aop/MyInterFace.java",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/com/namdev/aop/MyWelcomeAdvice.java",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/com/namdev/aop/OurLogic.java",
+		"/C/Users/1021124/Downloads/hello.py",
+		"/C/Users/1021124/Downloads/Spring-Final/1.AOP.01-Before-After/src/spconfig.xml",
+		"/C/Users/1021124/Desktop/shopping_data.sql",
+		"/C/Users/1021124/Desktop/shop.sql",
+		"/C/Users/1021124/Desktop/user_comment.sql",
+		"/C/Users/1021124/Desktop/product.sql",
+		"/C/Users/1021124/Documents/matrix_mul.py",
+		"/C/Users/1021124/Documents/project2/web.xml",
+		"/C/Users/1021124/Documents/plsql9.sql",
+		"/C/Users/1021124/Documents/project/MySQLAccess.java",
+		"/C/Users/1021124/Documents/plsql7.sql",
+		"/C/Users/1021124/Documents/plsql8.sql",
+		"/C/Users/1021124/Documents/plsql5.sql",
+		"/C/Users/1021124/Documents/plsql6.sql",
+		"/C/Users/1021124/Documents/plsql4.sql",
+		"/C/Users/1021124/Documents/plsql3.sql",
+		"/C/Users/1021124/Documents/plsql2.sql",
+		"/C/Users/1021124/Documents/plsql1.sql",
+		"/C/Users/1021124/Documents/assigne.html",
+		"/C/Users/1021124/Downloads/JavaExamples/AccountDanger.java",
+		"/C/Users/1021124/Downloads/JavaExamples/io/example/FileDemo.java",
+		"/C/Users/1021124/Downloads/JavaExamples/FinallyDemo.java",
+		"/C/Users/1021124/Downloads/JavaExamples/HashMapDemo.java"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BOOK"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Workspace/Shopper/WebContent/jsp/index.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								265,
+								2130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "shopper/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								553,
+								553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Softwares/jda/studio/projects/bookstore/data/users_data.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1286,
+								1286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "jda/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jda-project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
