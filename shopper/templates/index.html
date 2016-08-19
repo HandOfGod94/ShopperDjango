@@ -19,7 +19,7 @@
 	</style>
 </head>
 <body>
-	
+
 	<!-- Latest compiled and minified JavaScript -->
 	<script src={% static "js/jquery-3.1.0.min.js" %}></script>
 	<script src={% static "js/bootstrap.min.js" %}></script>
@@ -46,7 +46,7 @@
 				<a href="/Shopper/shopManage/transaction" class="btn btn-default btn-lg" style="background-color:antiquewhite">TRANSACTION</a>
 			</div>
 			<div class="col-sm-2" >
-				<a href="/Shopper/userComment" class="btn btn-default btn-lg" style="background-color:antiquewhite">FEEDBACK</a>
+				<a href={% url "user_comment" %} class="btn btn-default btn-lg" style="background-color:antiquewhite">FEEDBACK</a>
 			</div>
 		</div>
 	</div>
